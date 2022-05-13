@@ -1,7 +1,7 @@
 # Challenge-1
 
 ## Purpose
-Search Enginge Optimization Website built for the practice of learning basic html and css styling. 
+Search Enginge Optimization Website, PRACTICE FOR HTML AND CSS STYLING FOR CODING BOOT CAMP
 
 ## Built With
 *HTML
